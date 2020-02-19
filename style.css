@@ -1,0 +1,26 @@
+img{
+    max-width: 100%;
+    height: auto;
+    background: lightblue;
+    background: radial-gradient(white 30%,lightblue 70%);
+}
+.fa-star, .fa-star-half{
+    color: yellowgreen;
+
+}
+
+#cart_count{
+    text-align: center;
+    padding: 0 .9rem .1rem .9rem;
+    border-radius: 3rem;
+
+}
+.shopping-cart{
+    padding: 4% ;
+}
+.cart-items + .cart-items{
+    padding: 2% 0;
+}
+.price-details h6{
+    padding: 3% 2%;
+}
